@@ -39,7 +39,7 @@ dev = [
 Repository = "https://github.com/adrisala/cruft-boilerplate"
 
 [tool.setuptools]
-packages = ["src", "src.extensions"]
+packages = ["cruft_boilerplate", "cruft_boilerplate.extensions"]
 
 [tool.setuptools.package-data]
 "*" = ["*.json", "*.md"]
