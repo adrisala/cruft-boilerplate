@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.10"
 license = {text = "MIT"}
 authors = [
-    {name = "{{cookiecutter.author_name}}", email = "{{cookiecutter.author_email}}"}
+    {name = "{{cookiecutter.author_name}}"}
 ]
 classifiers = [
     "Development Status :: 3 - Alpha",
