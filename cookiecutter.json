@@ -18,5 +18,5 @@
       "project_name": "The project name (git repository name and the python package name)",
       "author_name": "Fork of this repository (git username or organization)"
   },
-  "_extensions": ["cruft-boilerplate.extensions.PackageNameExtension"]
+  "_extensions": ["cruft_boilerplate.extensions.PackageNameExtension"]
 }
