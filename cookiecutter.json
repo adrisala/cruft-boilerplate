@@ -12,7 +12,8 @@
     "*.pyc",
     "__pycache__",
     ".venv",
-    "*.egg-info"
+    "*.egg-info",
+    ".git"
   ],
   "__prompts__": {
       "project_name": "The project name (git repository name and the python package name)",
