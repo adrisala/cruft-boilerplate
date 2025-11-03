@@ -12,6 +12,9 @@ license = {text = "MIT"}
 authors = [
     {name = "{{cookiecutter.author_name}}"}
 ]
+maintainers = [
+    {name = "{{cookiecutter.maintainer_name}}"}
+]
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Framework :: Django",

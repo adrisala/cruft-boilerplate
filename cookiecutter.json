@@ -3,6 +3,7 @@
   "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
   "project_short_description": "A Django REST Framework service for Ansible Automation Platform",
   "author_name": "author-name",
+  "maintainer_name": "maintainer-name",
   "version": "0.1.0",
   "python_version": "3.12",
   "django_version": "5.2.7",
@@ -17,7 +18,8 @@
   ],
   "__prompts__": {
       "project_name": "The project name (git repository name and the python package name)",
-      "author_name": "Fork of this repository (git username or organization)"
+      "author_name": "Fork of this repository (git username or organization)",
+      "maintainer_name": "Maintainer of the project (git username or organization)"
   },
   "_extensions": ["cruft_boilerplate.extensions.PackageNameExtension"]
 }
